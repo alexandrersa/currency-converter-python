@@ -1,0 +1,15 @@
+# App
+fastapi==0.116.1
+uvicorn==0.35.0
+gunicorn==23.0.0
+
+# Database
+SQLAlchemy==2.0.43
+psycopg2-binary==2.9.10
+
+# LOG
+loguru==0.7.3
+
+# Formatting Tool
+black==25.1.0
+pre-commit==4.3.0
